@@ -17,4 +17,25 @@
 * Select your favourite device/emulator.
 * Voilaa!!
 
-## Will be hosting this site as web app soon!!
+----
+
+#### Project Screenshots
+Home Screen:
+
+<image src="https://github.com/aditya618/Restaurant-mobile-app/blob/main/Screenshots/Home.png" width="200" />
+
+Restaurant Details Screen:
+
+<image src="https://github.com/aditya618/Restaurant-mobile-app/blob/main/Screenshots/restaurant-details.png" width="200" />
+
+Basket Screen:
+
+<image src="https://github.com/aditya618/Restaurant-mobile-app/blob/main/Screenshots/basket.png" width="200" />
+
+Order Preparing Screen:
+
+<image src="https://github.com/aditya618/Restaurant-mobile-app/blob/main/Screenshots/preparing-order.png" width="200" />
+
+Delivery Screen:
+
+<image src="https://github.com/aditya618/Restaurant-mobile-app/blob/main/Screenshots/delivery.png" width="200" />
